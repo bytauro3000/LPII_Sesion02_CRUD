@@ -26,11 +26,11 @@ public class InsertaEst {
 		InsertaEst p = new InsertaEst();
 		try {
 		Estudiante student = new Estudiante();
-		student.setNombreApe("Ever Silva");
+		student.setNombreApe("Roxana Campcha");
 		student.setTipoDocumento("DNI");
-		student.setNroDocumento("47756265");
+		student.setNroDocumento("85632541");
 		student.setTelefono("987563214");
-		student.setCarrera("Contabilidad");
+		student.setCarrera("Cosmetologa");
 		p.registrarEstudiante(student);
 		
 		}

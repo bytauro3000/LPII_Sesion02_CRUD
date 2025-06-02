@@ -8,6 +8,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/eclipselink.jar"/>
 	<classpathentry kind="lib" path="lib/jakarta.persistence_2.2.3.jar"/>
-	<classpathentry kind="lib" path="D:/Downloads/LPII_Sesión_02 - Rec/LPII_Sesión_02 - Rec/LPII_Sesión_02 - Rec/LPII_Sesion02_CRUD/lib/mysql-connector-j-8.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/LPII_Sesión_02/LPII_Sesion02_CRUD/lib/mysql-connector-j-8.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
